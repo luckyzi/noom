@@ -1,0 +1,28 @@
+{
+  "name": "noom",
+  "version": "1.0.0",
+  "description": "노마드코더 줌 클론코딩 실습",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luckyzi/noom.git"
+  },
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "bugs": {
+    "url": "https://github.com/luckyzi/noom/issues"
+  },
+  "homepage": "https://github.com/luckyzi/noom#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.18.10",
+    "@babel/core": "^7.18.13",
+    "@babel/node": "^7.18.10",
+    "@babel/preset-env": "^7.18.10",
+    "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "pug": "^3.0.2"
+  }
+}
